@@ -1,2 +1,11 @@
-# raiodesol-wp-theme
-WP Theme for raio de sol website
+
+# https://raiodesol-rio.com.br
+
+
+# Tech stack
+
+	Gulp.js
+	Stylus css
+	WordPress
+	ACF (Advanced Custom Fields)
+
