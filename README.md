@@ -8,5 +8,3 @@
 	Stylus css
 	WordPress
 	ACF (Advanced Custom Fields)
-
-# Test
